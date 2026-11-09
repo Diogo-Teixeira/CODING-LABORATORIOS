@@ -2,7 +2,7 @@
 
 ## Integrantes do Grupo:
 - Diogo da Silva Teixeira - @Diogo-Teixeira
-- Berg William - @BWquebracodigos
+- Berg William Pamplona Silva - @BWquebracodigos
 
 ## Conteúdo:
 - Pastas Laboratorio-01
